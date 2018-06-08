@@ -16,7 +16,7 @@ Important info:
 | --- | --- |
 | Start date | June 8 2018 |
 | End date   | open ended, while there will be interest |
-| Chairs     | TBD |
+| Coordinators | Péter Király, ... |
 | Meeting Schedule | TBD |
 
 ## Background
