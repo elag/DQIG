@@ -8,6 +8,8 @@ Join the team:
 * [DQIG Team](https://github.com/orgs/elag/teams/dqig) on Github
 * [DQIG channel](https://elag-community.slack.com/messages/CB41TMKL2/details/) on Slack
 
+Important info:
+
 | key | value |
 | --- | --- |
 | Start date | June 8 2018 |
