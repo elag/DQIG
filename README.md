@@ -1,14 +1,7 @@
 
 # DQIG: Data Quality Interest Group
 
-The activities of the Data Quality Interest Group (DQIG) are
-
-* call attention to the importance of data quality
-* promote, improve and invent metrics to measure data quality
-* discuss and collabore on tools
-* discuss and collabore on visualisation
-* discuss and collabore on communication on the results of measurements
-* how to improve the quality
+The mission of the Data Quality Interest Group (DQIG) is to call attention to the importance of data quality, and collaborate on solving current issues.
 
 [Link to join FIG (TBD).]()
 
@@ -17,14 +10,21 @@ The activities of the Data Quality Interest Group (DQIG) are
 | Start date | June 8 2018 |
 | End date   | TBD |
 | Chairs     | TBD |
-| Team Contacts| TBD |
+| Team Contacts | Péter Király, Lukas Koster, Christina Harlow |
 | Meeting Schedule | TBD |
 
 ## Background
 To be written up.
 
 ## Scope
-The group will: ...
+The group will:
+
+* call attention to the importance of data quality
+* promote, improve and invent metrics to measure data quality
+* discuss and collabore on tools
+* discuss and collabore on visualisation
+* discuss and collabore on communication on the results of measurements
+* how to improve the quality
 
 ### Out of Scope
 The following features are out of scope, and will not be addressed by this group.
