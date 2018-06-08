@@ -3,17 +3,19 @@
 
 The mission of the Data Quality Interest Group (DQIG) is to call attention to the importance of data quality, and collaborate on solving current issues. 
 
-Join the team:
+There is no formal membership. Members are those who subscribe to either of the following communication channels:
 
-* [DQIG Team](https://github.com/orgs/elag/teams/dqig) on Github
 * [DQIG channel](https://elag-community.slack.com/messages/CB41TMKL2/details/) on Slack
+* [DQIG Team](https://github.com/orgs/elag/teams/dqig) on Github
+
+The main discussion is on Slack. We keep GitHub team mainly for technical conversations.
 
 Important info:
 
 | key | value |
 | --- | --- |
 | Start date | June 8 2018 |
-| End date   | TBD |
+| End date   | open ended, while there will be interest |
 | Chairs     | TBD |
 | Meeting Schedule | TBD |
 
