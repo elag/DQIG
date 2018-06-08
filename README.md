@@ -1,6 +1,14 @@
 
-# FIG: Fix Interest Group Readme
-The mission of the Fix Interest Group (FIG) is ...
+# DQIG: Data Quality Interest Group
+
+The activities of the Data Quality Interest Group (DQIG) are
+
+* call attention to the importance of data quality
+* promote, improve and invent metrics to measure data quality
+* discuss and collabore on tools
+* discuss and collabore on visualisation
+* discuss and collabore on communication on the results of measurements
+* how to improve the quality
 
 [Link to join FIG (TBD).]()
 
@@ -8,7 +16,7 @@ The mission of the Fix Interest Group (FIG) is ...
 | ---------- | ----------- |
 | End date   | TBD |
 | Chairs     | TBD |
-| Team Contacts| Michael Cooper, Shadi Abou-Zahra, Shawn Lawton Henry |
+| Team Contacts| TBD |
 | Meeting Schedule | TBD |
 
 ## Background
