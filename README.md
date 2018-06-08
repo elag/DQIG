@@ -29,6 +29,14 @@ The group will:
 ### Out of Scope
 The following features are out of scope, and will not be addressed by this group.
 
+### Similar activities
+
+* [Europeana Data Quality Committee](https://pro.europeana.eu/project/data-quality-committee)
+* [DLF Metadata Assessment Working Group](http://dlfmetadataassessment.github.io/)
+* [ADOCHS](http://adochs.be]
+* [CONQUAIRE](http://conquaire.uni-bielefeld.de/)
+* [Metadata 2020](http://metadata2020.org)
+
 ### Success Criteria
 TBD
 
