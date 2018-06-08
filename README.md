@@ -31,6 +31,8 @@ The following features are out of scope, and will not be addressed by this group
 
 ### Similar activities
 
+The following projects has lots of commons with the interest group, but they are either concentrating on a concrete service or they does not have European community focus.
+
 * [Europeana Data Quality Committee](https://pro.europeana.eu/project/data-quality-committee)
 * [DLF Metadata Assessment Working Group](http://dlfmetadataassessment.github.io/)
 * [ADOCHS](http://adochs.be)
