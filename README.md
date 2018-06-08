@@ -19,7 +19,7 @@ To be written up.
 ## Scope
 The group will:
 
-* regularly read and discuss important articles ([Zotero metadata assessment group](https://www.zotero.org/groups/metadata_assessment)
+* regularly read and discuss important articles ([metadata assessment bibliography](https://www.zotero.org/groups/metadata_assessment))
 * promote, improve and invent metrics to measure data quality
 * discuss and collabore on tools
 * discuss and collabore on visualisation
