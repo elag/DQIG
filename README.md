@@ -28,6 +28,12 @@ If you are new to the field, I suggest to check some slides and the video we cre
 * Bruce, Thomas R., and Diane I. Hillmann. “The Continuum of Metadata Quality: Defining, Expressing, Exploiting.” In Metadata in Practice, edited by D. Hillman and E. Westbrooks, 238–56. Chicago, IL: ALA Editions, 2004. http://ecommons.cornell.edu/handle/1813/7895.
 * Ochoa, Xavier, and Erik Duval. “Automatic Evaluation of Metadata Quality in Digital Repositories.” International Journal on Digital Libraries 10, no. 2–3 (August 2009): 67–91. https://doi.org/10.1007/s00799-009-0054-4.
 
+There are some PhD dissertations as well:
+
+* Seth van Hooland, _Metadata Quality in the Cultural Heritage Sector: Stakes, Problems and Solutions_ (2009) http://homepages.ulb.ac.be/~svhoolan/these.pdf
+* Sascha Tönnies, _Quality Control using Semantic Technologies in Digital Libraries_ (2013) http://www.ifis.cs.tu-bs.de/sites/default/files/biblio/thesis_toennies_final_eversion_pdf_12334.pdf
+* Nikos Palavitsinis, _Metadata Quality Issues in Learning Repositories_ (2014) http://blog.agroknow.com/wp-content/uploads/2014/02/Palavitsinis_Thesis_Final221113.pdf
+
 ## Scope
 The group will:
 
