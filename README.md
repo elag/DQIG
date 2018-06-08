@@ -12,8 +12,7 @@ The activities of the Data Quality Interest Group (DQIG) are
 
 [Link to join FIG (TBD).]()
 
-| Start date | June 7 2018 |
-| ---------- | ----------- |
+| Start date | June 8 2018 |
 | End date   | TBD |
 | Chairs     | TBD |
 | Team Contacts| TBD |
