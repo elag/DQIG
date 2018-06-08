@@ -1,7 +1,7 @@
 
 # DQIG: Data Quality Interest Group
 
-The mission of the Data Quality Interest Group (DQIG) is to call attention to the importance of data quality, and collaborate on solving current issues.
+The mission of the Data Quality Interest Group (DQIG) is to call attention to the importance of data quality, and collaborate on solving current issues. 
 
 [Link to join FIG (TBD).]()
 
@@ -19,7 +19,7 @@ To be written up.
 ## Scope
 The group will:
 
-* call attention to the importance of data quality
+* regularly read and discuss important articles ([Zotero metadata assessment group](https://www.zotero.org/groups/metadata_assessment)
 * promote, improve and invent metrics to measure data quality
 * discuss and collabore on tools
 * discuss and collabore on visualisation
