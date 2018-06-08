@@ -10,7 +10,7 @@ The mission of the Data Quality Interest Group (DQIG) is to call attention to th
 | Start date | June 8 2018 |
 | End date   | TBD |
 | Chairs     | TBD |
-| Team Contacts | Péter Király, Lukas Koster, Christina Harlow |
+| Team Contacts | [DQIG Team](https://github.com/orgs/elag/teams) |
 | Meeting Schedule | TBD |
 
 ## Background
