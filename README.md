@@ -3,7 +3,10 @@
 
 The mission of the Data Quality Interest Group (DQIG) is to call attention to the importance of data quality, and collaborate on solving current issues. 
 
-[Link to join FIG (TBD).]()
+Join the team:
+
+* [DQIG Team](https://github.com/orgs/elag/teams/dqig) on Github
+* [DQIG channel](https://elag-community.slack.com/messages/CB41TMKL2/details/) on Slack
 
 | key | value |
 | --- | --- |
