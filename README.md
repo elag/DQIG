@@ -15,7 +15,6 @@ Important info:
 | Start date | June 8 2018 |
 | End date   | TBD |
 | Chairs     | TBD |
-| Team Contacts | [DQIG Team](https://github.com/orgs/elag/teams/dqig) |
 | Meeting Schedule | TBD |
 
 ## Background
