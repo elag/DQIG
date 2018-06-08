@@ -19,7 +19,13 @@ Important info:
 | Meeting Schedule | TBD |
 
 ## Background
-To be written up.
+
+Data quality is something which is hard to define, and not easy to detect programatically, but lot of parts of it are evident for metadata experts, developers and even for users.
+
+If you are new to the field, I suggest to check some slides and the video we created for the ELAG 2018 data quality workshop: http://bit.ly/elag2018-data-quality-workshop. If you have more time, I suggest you to read two seminal papers:
+
+* Bruce, Thomas R., and Diane I. Hillmann. “The Continuum of Metadata Quality: Defining, Expressing, Exploiting.” In Metadata in Practice, edited by D. Hillman and E. Westbrooks, 238–56. Chicago, IL: ALA Editions, 2004. http://ecommons.cornell.edu/handle/1813/7895.
+* Ochoa, Xavier, and Erik Duval. “Automatic Evaluation of Metadata Quality in Digital Repositories.” International Journal on Digital Libraries 10, no. 2–3 (August 2009): 67–91. https://doi.org/10.1007/s00799-009-0054-4.
 
 ## Scope
 The group will:
